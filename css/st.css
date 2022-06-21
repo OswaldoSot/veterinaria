@@ -1,0 +1,72 @@
+#container{
+    width: 780px; 
+    margin: 0 auto; 
+    border: 1px solid chartreuse; 
+    text-align: center;
+}
+#container2{
+    width: 580px; 
+    margin: 0 auto; 
+    background: rgba(50, 182, 244, 0.4);
+    padding: 100px 20px; 
+    font-size: 30px;
+}
+.formu{
+    width: 580px; 
+    margin: 0 auto; 
+    background: rgba(50, 182, 244, 0.4);
+    padding: 50px 20px; 
+}
+.plan{
+    background-color: aquamarine;
+    text-align: center;
+}
+*{
+    padding: 0%;
+}
+.bar-{
+    float: right;
+    padding-top: 10px;
+    padding-right: 20px;
+    text-align: left;
+}
+.c1{
+color: black;
+}
+.c2{
+    color: black;
+}
+.tpLetra{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+}
+.tpLetra6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24pt;
+}
+.menu-{
+    background:orange;
+    border: 1px;
+    padding-top: 8px;
+    padding-right: 6px;
+    text-align: left;
+}
+.menu_{
+    background:orange;
+    border: 1px;
+    padding-top: 8px;
+    padding-right: 6px;
+    text-align: left;
+}
+.color-fondo{
+    background-color:chartreuse  ;
+    font-size: smaller;
+    table-layout: auto;
+
+
+}
+.boton{
+    color: blue;
+    font-size: 22px;
+
+}
